@@ -1,2 +1,2 @@
 # HelloWorld
-Repositorio de ideas varias
+Guardar aquí algunas ideas
